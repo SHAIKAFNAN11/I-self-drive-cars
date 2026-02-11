@@ -21,7 +21,7 @@ const HeroSection = () => {
           Self Drive Cars in Chennai
         </h1>
         <p className="text-primary-foreground/80 text-lg md:text-xl max-w-2xl mx-auto mb-10 section-fade-in">
-          Affordable &bull; Flexible &bull; 24 Hour Rental &bull; Airport Delivery Available
+          Affordable &bull; Flexible &bull; 24 Hour Rental
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 section-fade-in">

@@ -26,22 +26,22 @@ const ReviewsSection = () => {
 
         <div className="grid md:grid-cols-3 gap-6">
           {reviews.map((r, i) => (
-            <div key={i} className="bg-card/60 border border-border rounded-lg p-6 shadow-sm">
+            <div key={i} className="bg-card border border-border rounded-lg p-6 shadow-sm">
               <div className="flex items-start gap-3 mb-4">
                 <div className="w-12 h-12 rounded-full bg-primary-foreground/10 flex items-center justify-center text-primary-foreground font-semibold">G</div>
                 <div>
-                  <div className="flex items-center gap-2 text-sm text-amber-400">
-                    <Star size={16} />
-                    <Star size={16} />
-                    <Star size={16} />
-                    <Star size={16} />
-                    <Star size={16} />
+                  <div className="flex items-center gap-1 text-sm text-amber-400">
+                    <span className="text-amber-400">★</span>
+                    <span className="text-amber-400">★</span>
+                    <span className="text-amber-400">★</span>
+                    <span className="text-amber-400">★</span>
+                    <span className="text-amber-400">★</span>
                   </div>
                   <div className="text-xs text-muted-foreground mt-1">{r.author}</div>
                 </div>
               </div>
 
-              <p className="text-primary-foreground/90">{r.text}</p>
+              <p className="text-foreground">{r.text}</p>
             </div>
           ))}
         </div>
