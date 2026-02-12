@@ -4,7 +4,7 @@ const policies = [
   {
     icon: FileText,
     title: 'ID Proof Requirement',
-    content: 'Original government-issued ID proofs (Aadhaar, Driving License, Passport) are mandatory. The number of IDs required varies by vehicle. Photocopies are not accepted.',
+    content: 'Original government-issued ID proofs (Aadhaar, Driving License, Passport) are mandatory. The number of IDs required varies by vehicle. Photocopies accepted.',
   },
   {
     icon: CreditCard,
@@ -26,16 +26,8 @@ const policies = [
     title: 'Delivery Charges',
     content: 'Vehicles can be delivered to Chennai Airport, Egmore, and Central stations at applicable charges. Self-pickup from our location is free of charge.',
   },
-  {
-    icon: ShieldCheck,
-    title: 'Vehicle Return Policy',
-    content: 'Return the vehicle on time and in the same condition. Late returns will incur additional daily charges. Report any issues immediately via WhatsApp.',
-  },
-  {
-    icon: Fuel,
-    title: 'Fuel Policy – Tank Full → Return Full',
-    content: 'Pick up the car with a full tank and return it the same way. Simple and fair. Any shortage will be charged at prevailing fuel rates.',
-  },
+
+
   {
     icon: AlertTriangle,
     title: 'Toll, Parking & Damage Policy',
