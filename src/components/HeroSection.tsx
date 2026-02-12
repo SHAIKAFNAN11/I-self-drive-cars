@@ -17,10 +17,10 @@ const HeroSection = () => {
         <p className="text-gold font-medium tracking-[0.2em] uppercase text-sm mb-4 section-fade-in">
           I Self Drive Cars
         </p>
-        <h1 className="font-display text-7xl font-bold text-primary-foreground mb-6 section-fade-in text-balance leading-tight">
+        <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 section-fade-in text-balance leading-tight">
           Self Drive Cars in Chennai
         </h1>
-        <p className="text-primary-foreground/80 text-xl max-w-2xl mx-auto mb-10 section-fade-in">
+        <p className="text-primary-foreground/80 text-lg md:text-xl max-w-2xl mx-auto mb-10 section-fade-in">
           Affordable &bull; Flexible
         </p>
 
