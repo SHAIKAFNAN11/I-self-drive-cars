@@ -52,7 +52,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground mb-1">Email</p>
-                <p className="text-lg font-semibold text-foreground">info@iselfdrivecar.com</p>
+                <p className="text-lg font-semibold text-foreground">i.selfdrivecar@gmail.com</p>
               </div>
             </div>
 
@@ -62,7 +62,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground mb-1">Location</p>
-                <p className="text-lg font-semibold text-foreground">Chennai, Tamil Nadu</p>
+                <p className="text-lg font-semibold text-foreground">Chai Sutta Bar, Padmavathi Rd, Gopalapuram, Chennai, Tamil Nadu 600086</p>
               </div>
             </div>
           </div>
@@ -71,7 +71,7 @@ const ContactSection = () => {
           <div className="rounded-xl overflow-hidden border border-border h-[400px]">
             <iframe
               title="I Self Drive Cars Chennai Location"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d497511.2314639801!2d79.87933!3d13.047986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265ea4f7d3361%3A0x6e61a70b6863d433!2sChennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1"
+              src="https://www.google.com/maps?q=Chai%20Sutta%20Bar%2C%20Padmavathi%20Rd%2C%20Gopalapuram%2C%20Chennai%2C%20Tamil%20Nadu%20600086&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}
