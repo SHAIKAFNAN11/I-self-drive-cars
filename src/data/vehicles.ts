@@ -191,7 +191,7 @@ export const vehicles: Vehicle[] = [
   },
   {
     id: 'swift-dzire',
-    name: 'Maruti Swift Dzire',
+    name: 'Maruti Dzire',
     type: 'car',
     fuel: 'Petrol',
     transmission: 'Manual',
@@ -201,7 +201,22 @@ export const vehicles: Vehicle[] = [
     deposit: 2000,
     cleaningCharge: 250,
     idProofs: 2,
-    images: ['/images/dizre/dizre1.jpg','/images/dizre/dizre2.jpg','/images/dizre/dizre3.jpg'],
+    images: ['/images/dizre1/dizre1.jpg','/images/dizre1/dizre2.jpg','/images/dizre1/dizre3.jpg'],
+  },
+  {
+    id: 'maruti-dzire-auto',
+    name: 'Maruti Dzire',
+    type: 'car',
+    fuel: 'Petrol',
+    transmission: 'Automatic',
+    pricePerDay: 2500,
+    kmLimit: 300,
+    extraKmCharge: 6,
+    deposit: 2500,
+    cleaningCharge: 350,
+    idProofs: 3,
+    delivery: { airport: 550, egmore: 350, central: 350 },
+    images: ['/images/dizre2/dizre21.jpg','/images/dizre2/dizre22.jpg','/images/dizre2/dizre23.jpg'],
   },
 ];
 
