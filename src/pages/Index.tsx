@@ -8,7 +8,6 @@ import ContactSection from '@/components/ContactSection';
 import Footer from '@/components/Footer';
 import FloatingWhatsApp from '@/components/FloatingWhatsApp';
 import FloatingContact from '@/components/FloatingContact';
-import MobileBookingBar from '@/components/MobileBookingBar';
 
 const Index = () => {
   return (
@@ -23,7 +22,6 @@ const Index = () => {
       <Footer />
       <FloatingWhatsApp />
       <FloatingContact />
-      <MobileBookingBar />
     </main>
   );
 };
