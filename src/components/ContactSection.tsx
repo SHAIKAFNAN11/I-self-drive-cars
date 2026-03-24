@@ -62,7 +62,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground mb-1">Location</p>
-                <p className="text-lg font-semibold text-foreground">Chai Sutta Bar, Padmavathi Rd, Gopalapuram, Chennai, Tamil Nadu 600086</p>
+                <p className="text-lg font-semibold text-foreground">12/17 PV kovil, 3rd St, behind THE MUSIC ACADEMY, Royapettah, Chennai, Tamil Nadu 600004</p>
               </div>
             </div>
           </div>
@@ -71,7 +71,7 @@ const ContactSection = () => {
           <div className="rounded-xl overflow-hidden border border-border h-[400px]">
             <iframe
               title="I Self Drive Cars Chennai Location"
-              src="https://maps.app.goo.gl/AoWunEPAovGYE8Zm9?g_st=aw"
+              src="https://www.google.com/maps/search/?api=1&query=12%2F17%20PV%20kovil%2C%203rd%20St%2C%20behind%20THE%20MUSIC%20ACADEMY%2C%20Royapettah%2C%20Chennai%2C%20Tamil%20Nadu%20600004"
               width="100%"
               height="100%"
               style={{ border: 0 }}
