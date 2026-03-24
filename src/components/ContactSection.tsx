@@ -32,7 +32,7 @@ const ContactSection = () => {
             </div>
 
             <a
-              href={getWhatsAppLink('Hi, I have a question about your self drive car rental service in Chennai.')}
+              href={getWhatsAppLink('Hi, I would like to see your self drive car rental service in Chennai.')}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 p-5 rounded-xl border border-border bg-background hover:border-gold/30 transition-colors"
@@ -71,7 +71,7 @@ const ContactSection = () => {
           <div className="rounded-xl overflow-hidden border border-border h-[400px]">
             <iframe
               title="I Self Drive Cars Chennai Location"
-              src="https://www.google.com/maps?q=Chai%20Sutta%20Bar%2C%20Padmavathi%20Rd%2C%20Gopalapuram%2C%20Chennai%2C%20Tamil%20Nadu%20600086&output=embed"
+              src="https://maps.app.goo.gl/AoWunEPAovGYE8Zm9?g_st=aw"
               width="100%"
               height="100%"
               style={{ border: 0 }}
