@@ -71,7 +71,7 @@ const ContactSection = () => {
           <div className="rounded-xl overflow-hidden border border-border h-[400px]">
             <iframe
               title="I Self Drive Cars Chennai Location"
-              src="https://www.google.com/maps?q=12%2F17%20PV%20kovil%2C%203rd%20St%2C%20behind%20THE%20MUSIC%20ACADEMY%2C%20Royapettah%2C%20Chennai%2C%20Tamil%20Nadu%20600004&output=embed"
+              src="https://maps.google.com/maps?q=12%2F17%20PV%20kovil%2C%203rd%20St%2C%20behind%20THE%20MUSIC%20ACADEMY%2C%20Royapettah%2C%20Chennai%2C%20Tamil%20Nadu%20600004&z=16&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}
